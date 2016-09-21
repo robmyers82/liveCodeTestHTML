@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	color: #006600;
+}
+
+img#nic-cage {
+	float: left;
+	margin: 0px 20px 20px 0px;
+}
+
+section.uit-staff-section {
+	height: 500px;
+	background-color: #0000ff;
+	position: relative;
+	clear: both;
+}
+
+img.peanutbutter {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
